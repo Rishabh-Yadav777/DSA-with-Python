@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0044-wildcard-matching) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0044-wildcard-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0044-wildcard-matching) |
 ## Manacher
 |  |
 | ------- |
@@ -168,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
