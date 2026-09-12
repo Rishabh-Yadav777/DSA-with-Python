@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0060-permutation-sequence) |
 ## Hash Table
 |  |
 | ------- |
