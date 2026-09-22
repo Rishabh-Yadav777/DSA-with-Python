@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0068-text-justification) |
+| [0079-word-search](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -262,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0070-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
