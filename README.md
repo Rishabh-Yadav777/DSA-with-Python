@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0085-maximal-rectangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0085-maximal-rectangle) |
 ## Manacher
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0085-maximal-rectangle) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
 | ------- |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0085-maximal-rectangle) |
 ## Algorithm X
 |  |
 | ------- |
