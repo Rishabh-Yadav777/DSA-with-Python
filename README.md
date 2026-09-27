@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
