@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0089-gray-code) |
 ## Stack
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0089-gray-code) |
 ## Memoization
 |  |
 | ------- |
