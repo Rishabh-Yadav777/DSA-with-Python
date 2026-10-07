@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0115-distinct-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0095-unique-binary-search-trees-ii) |
 | [0097-interleaving-string](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0115-distinct-subsequences) |
 ## Manacher
 |  |
 | ------- |
