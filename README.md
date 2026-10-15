@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0130-surrounded-regions) |
 ## Binary Search
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0130-surrounded-regions) |
 ## Algorithm X
 |  |
 | ------- |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0130-surrounded-regions) |
 ## Tree
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0130-surrounded-regions) |
 ## DP on Trees
 |  |
 | ------- |
@@ -434,4 +438,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
