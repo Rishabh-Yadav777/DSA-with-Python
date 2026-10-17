@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0136-single-number) |
 ## Memoization
 |  |
 | ------- |
