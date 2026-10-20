@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0146-lru-cache) |
+| [0147-insertion-sort-list](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0147-insertion-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0088-merge-sorted-array) |
+| [0147-insertion-sort-list](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0147-insertion-sort-list) |
 ## Backtracking
 |  |
 | ------- |
