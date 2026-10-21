@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Binary Search
 |  |
 | ------- |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
