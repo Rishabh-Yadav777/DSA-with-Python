@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
