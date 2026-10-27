@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0174-dungeon-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0174-dungeon-game) |
 ## Manacher
 |  |
 | ------- |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0174-dungeon-game) |
 ## Algorithm X
 |  |
 | ------- |
