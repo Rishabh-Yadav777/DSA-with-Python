@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0204-count-primes) |
 ## Recursion
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0204-count-primes) |
 ## Binary Search
 |  |
 | ------- |
@@ -621,4 +623,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0185-department-top-three-salaries) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rishabh-Yadav777/DSA-with-Python/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
